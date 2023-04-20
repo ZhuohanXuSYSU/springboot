@@ -9,6 +9,7 @@ public class SplitArrayPlus {
         long pay1 = 0;
         long pay2 = 0;
 
+
         for (int k = 0; k < K; k ++) {
 
             int N = (int) (Math.random() * 6000) + 5000;
