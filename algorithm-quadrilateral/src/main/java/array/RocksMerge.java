@@ -3,7 +3,6 @@ package array;
 public class RocksMerge {
     public static void main(String[] args) {
 
-
         long payment1 = 0;
         long payment2 = 0;
 
